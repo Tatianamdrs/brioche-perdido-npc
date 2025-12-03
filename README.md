@@ -14,12 +14,12 @@ O personagem foi instruído via *System Prompt* a:
 2.  Utilizar metáforas relacionadas a panificação e alquimia.
 3.  Manter uma personalidade rabugenta e excêntrica.
 
-## 🛠️ Tecnologias
+## Tecnologias
 * **Python 3.12**
 * **OpenAI API**
 * **Dotenv** (Gerenciamento de Segredos)
 
-## 🚀 Como Jogar Localmente
+## Como Jogar Localmente
 1. Clone o repositório.
 2. Instale as dependências: `pip install openai python-dotenv`
 3. Configure o `.env` com sua API Key.
